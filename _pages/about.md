@@ -24,7 +24,7 @@ My research interest includes 3D computer vision, human-centric motion understan
 
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 2 papers accepted to CVPR 2024!
-- *2024.01*: &nbsp;🎉🎉 1 papers accepted to ICRA 2024!
+- *2024.01*: &nbsp;🎉🎉 1 paper accepted to ICRA 2024!
 - *2023.01*: &nbsp;🎉🎉 1 paper accepted to TVCG 2023!
 - *2022.11*: &nbsp;🎉🎉 1 paper accepted to AAAI 2023!
 - *2022.03*: &nbsp;🎉🎉 1 paper accepted to ICME 2022!
