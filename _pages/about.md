@@ -64,7 +64,7 @@ Yiteng Xu, Kecheng Ye, Xiao Han, **Yiming Ren**, Xinge ZHU, Yuexin Ma
 Peishan Cong, Yiteng Xu, **Yiming Ren**, Juze Zhang, Lan Xu, Jingya Wang, Jingyi Yu, Yuexin Ma
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2022</div><img src='images/completion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2022</div><img src='images/completion.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Self-supervised Point Cloud Completion on Real Traffic Scenes via Scene-concerned Bottom-up Mechanism](https://arxiv.org/abs/2203.10569)
