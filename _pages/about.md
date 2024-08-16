@@ -33,20 +33,57 @@ My research interest includes 3D computer vision, human-centric motion understan
 - *2022.02*: &nbsp;🎉🎉 1 paper accepted to CVPR 2022!
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/mm_pred.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Practical Human Motion Prediction with LiDAR Point Clouds](https://arxiv.org/abs/2408.08202)
+
+Xiao Han, **Yiming Ren**, Yichen Yao, Yujing Sun, Yuexin Ma
+
+ACM Multimedia (MM), Oral, 2024
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/mm_gait.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Gait Recognition in Large-scale Free Environment via Single LiDAR](https://arxiv.org/abs/2211.12371)
+
+Xiao Han, **Yiming Ren**, Peishan Cong, Yujing Sun, Jingya Wang, Lan Xu, Yuexin Ma
+
+ACM Multimedia (MM), Oral, 2024
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/eccv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LiveHPS++: Robust and Coherent Motion Capture in Dynamic Free Environment](https://arxiv.org/abs/2407.09833)
+
+**Yiming Ren**, Xiao Han, Yichen Yao, Xiaoxiao Long, Yujing Sun, Yuexin Ma
+
+European Conference on Computer Vision (ECCV), Oral, 2024
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/livehps.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LiveHPS: LiDAR-based Scene-level Human Pose and Shape Estimation in Free Environment](https://arxiv.org/abs/2402.17171)
+
 **Yiming Ren**, Xiao Han, Chengfeng Zhao, Jingya Wang, Lan Xu, Jingyi Yu, Yuexin Ma
+
 The IEEE / CVF Computer Vision and Pattern Recognition Conference(**CVPR**), Highlight, 2024
 </div>
 </div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/unified.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Unified Framework for Human-centric Point Cloud Video Understanding](https://arxiv.org/abs/2403.20031)
+
 Yiteng Xu, Kecheng Ye, Xiao Han, **Yiming Ren**, Xinge ZHU, Yuexin Ma
+
 The IEEE / CVF Computer Vision and Pattern Recognition Conference(**CVPR**), 2024
 </div>
 </div>
@@ -54,7 +91,9 @@ The IEEE / CVF Computer Vision and Pattern Recognition Conference(**CVPR**), 202
 <div class='paper-box-text' markdown="1">
 
 [LiDAR-aid Inertial Poser: Large-scale Human Motion Capture by Sparse Inertial and LiDAR Sensors](https://arxiv.org/abs/2205.15410)
+
 **Yiming Ren**, Chengfeng Zhao, Yannan He, Peishan Cong, Han Liang, Jingyi Yu, Lan Xu, Yuexin Ma
+
 IEEE Transactions on Visualization and Computer Graphics(**TVCG**), 2023
 </div>
 </div>
@@ -62,7 +101,9 @@ IEEE Transactions on Visualization and Computer Graphics(**TVCG**), 2023
 <div class='paper-box-text' markdown="1">
 
 [Weakly Supervised 3D Multi-person Pose Estimation for Large-scale Scenes based on Monocular Camera and Single LiDAR](https://arxiv.org/abs/2211.16951)
+
 Peishan Cong, Yiteng Xu, **Yiming Ren**, Juze Zhang, Lan Xu, Jingya Wang, Jingyi Yu, Yuexin Ma
+
 Thirty-Seventh AAAI Conference on Artificial Intelligence(**AAAI**), Oral, 2023
 </div>
 </div>
@@ -70,7 +111,9 @@ Thirty-Seventh AAAI Conference on Artificial Intelligence(**AAAI**), Oral, 2023
 <div class='paper-box-text' markdown="1">
 
 [Self-supervised Point Cloud Completion on Real Traffic Scenes via Scene-concerned Bottom-up Mechanism](https://arxiv.org/abs/2203.10569)
+
 **Yiming Ren**, Peishan Cong, Xinge Zhu, Yuexin Ma
+
 IEEE International Conference on Multimedia and Expo(**ICME**), 2022
 </div>
 </div>
@@ -78,7 +121,9 @@ IEEE International Conference on Multimedia and Expo(**ICME**), 2022
 <div class='paper-box-text' markdown="1">
 
 [STCrowd: A Multimodal Dataset for Pedestrian Perception in Crowded Scenes](https://arxiv.org/abs/2204.01026)
+
 Peishan Cong, Xinge Zhu, Feng Qiao, **Yiming Ren**, Xidong Peng, Yuenan Hou, Lan Xu, Ruigang Yang, Dinesh Manocha, Yuexin Ma
+
 IEEE Conference on Computer Vision and Pattern Recognition(**CVPR**), 2022
 </div>
 </div>
