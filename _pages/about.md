@@ -39,7 +39,7 @@ My research interest includes 3D computer vision, human-centric motion understan
 
 [FreeCap: Hybrid Calibration-Free Motion Capture in Open Environments](https://arxiv.org/abs/2411.04469)
 
-Aoru Xue*, **Yiming Ren***, Zining Song, Mao Ye, Xinge ZHU, Yuexin Ma
+Aoru Xue\*, **Yiming Ren\***, Zining Song, Mao Ye, Xinge ZHU, Yuexin Ma
 
 AAAI, 2025
 </div>
