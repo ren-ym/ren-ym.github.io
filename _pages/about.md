@@ -23,6 +23,7 @@ My research interest includes 3D computer vision, human-centric motion understan
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 1 paper accepted to AAAI 2025!
 - *2024.07*: &nbsp;🎉🎉 2 papers accepted to ACMMM 2024!
 - *2024.06*: &nbsp;🎉🎉 1 paper accepted to ECCV 2024!
 - *2024.02*: &nbsp;🎉🎉 2 papers accepted to CVPR 2024!
@@ -33,6 +34,17 @@ My research interest includes 3D computer vision, human-centric motion understan
 - *2022.02*: &nbsp;🎉🎉 1 paper accepted to CVPR 2022!
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/freecap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FreeCap: Hybrid Calibration-Free Motion Capture in Open Environments](https://arxiv.org/abs/2411.04469)
+
+Aoru Xue*, **Yiming Ren***, Zining Song, Mao Ye, Xinge ZHU, Yuexin Ma
+
+AAAI, 2025
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/mm_pred.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
