@@ -17,23 +17,59 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year master student at Visual and Data Intelligence Center of ShanghaiTech University, supervised by <a href='https://yuexinma.me/aboutme.html'>Prof. Yuxin Ma</a>. I received my bachelor degree from ShanghaiTech.
+I am currently a forth-year PhD student at Visual and Data Intelligence Center of ShanghaiTech University, supervised by <a href='https://yuexinma.me/aboutme.html'>Prof. Yuxin Ma</a>. I received my bachelor degree from ShanghaiTech.
 
-My research interest includes 3D computer vision, human-centric motion understanding. 
+My research interest includes 3D computer vision, human-centric motion understanding, . 
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 1 paper accepted to TPAMI 2026!
+- *2026.01*: &nbsp;🎉🎉 1 paper accepted to ICLR 2026!
+- *2025.07*: &nbsp;🎉🎉 1 paper accepted to SIGGRAPH Asia 2025!
 - *2024.11*: &nbsp;🎉🎉 1 paper accepted to AAAI 2025!
 - *2024.07*: &nbsp;🎉🎉 2 papers accepted to ACMMM 2024!
 - *2024.06*: &nbsp;🎉🎉 1 paper accepted to ECCV 2024!
 - *2024.02*: &nbsp;🎉🎉 2 papers accepted to CVPR 2024!
 - *2024.01*: &nbsp;🎉🎉 1 paper accepted to ICRA 2024!
-- *2023.01*: &nbsp;🎉🎉 1 paper accepted to TVCG 2023!
+- *2023.01*: &nbsp;🎉🎉 1 paper accepted to TVCG!
 - *2022.11*: &nbsp;🎉🎉 1 paper accepted to AAAI 2023!
 - *2022.03*: &nbsp;🎉🎉 1 paper accepted to ICME 2022!
 - *2022.02*: &nbsp;🎉🎉 1 paper accepted to CVPR 2022!
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/optimalcap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OptimalCap: Efficient and Robust LiDAR-Based Motion Capture in Free Environments](https://ieeexplore.ieee.org/abstract/document/11423890)
+
+**Yiming Ren\***, Yujing Sun\*, Xiao Han, Yichen Yao, Xiaoxiao Long, Xinge Zhu, Siu Ming Yiu, Yuexin Ma
+
+TPAMI 2026
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/sparkle.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Sparkle: A Robust and Versatile Representation for Point Cloud-based Human Motion Capture](https://openreview.net/pdf?id=0blfYtdJES)
+
+**Yiming Ren\***, Yujing Sun\*, Aoru Xue, Kwok-Yan Lam, Yuexin Ma†
+
+ICLR, 2026
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025</div><img src='images/symbridge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SymBridge: A Human-in-the-Loop Cyber-Physical Interactive System for Adaptive Human-Robot Symbiosis](https://arxiv.org/pdf/2502.07358v2)
+
+Haoran Chen*, Yiteng Xu*, **Yiming Ren**, Yaoqin Ye, Xinran Li, Ning Ding, Yuxuan Wu, Yaoze Liu, Peishan Cong, Ziyi Wang, Bushi Liu, Yuhan Chen, Zhiyang Dou, Xiaokun Leng, Manyi Li†, Yuexin Ma†, Changhe Tu
+
+SIGGRAPH Asia 2025
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/freecap.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
