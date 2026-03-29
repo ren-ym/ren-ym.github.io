@@ -177,9 +177,11 @@ IEEE Conference on Computer Vision and Pattern Recognition(**CVPR**), 2022
 </div>
 
 # 🎖 Honors and Awards
+- *2025.10* Merit Student, ShanghaiTech University
+- *2024.10* Merit Student, ShanghaiTech University  
 - *2023.10* Merit Student, ShanghaiTech University  
 - *2023.01* Excellent Student Award in The 30th IEEE Conference on Virtual Reality and 3D User Interfaces.
 
 # 📖 Educations
-- *2022.09 - present*, Master, ShanghaiTech University, Shanghai, China.
+- *2022.09 - present*, PhD, ShanghaiTech University, Shanghai, China.
 - *2018.09 - 2022.07*, Bachelor, ShanghaiTech University, Shanghai, China.
